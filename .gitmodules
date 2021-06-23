@@ -1,0 +1,4 @@
+[submodule "fredzamoabg/product-attribute"]
+	path = fredzamoabg/product-attribute
+	url = git@github.com:fredzamoabg/product-attribute.git
+	branch = 14.0-mig-product_supplierinfo_for_customer
