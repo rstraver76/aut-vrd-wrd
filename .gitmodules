@@ -2,3 +2,8 @@
 	path = fredzamoabg/product-attribute
 	url = git@github.com:fredzamoabg/product-attribute.git
 	branch = 14.0-mig-product_supplierinfo_for_customer
+
+[submodule "OCA/credit-control"]
+	path = OCA/credit-control
+	url = git@github.com:OCA/credit-control.git
+	branch = 14.0
